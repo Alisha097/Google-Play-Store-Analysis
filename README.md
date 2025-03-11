@@ -1,5 +1,4 @@
 ## Google-Play-Store-Analysis
-
 # About the project
 The objective of this project is to analyze the Google Play Store dataset and derive useful insights about the apps available on the platform, such as finding the most popluar app category, app with most number of installs, and the app with largest size.
 
